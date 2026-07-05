@@ -10,12 +10,12 @@ PyAegentris is a build-time tool for protecting Python applications on Windows. 
 
 ## Features
 
-- **No source in the release** — end users receive a protected runtime package, not your original `.py` files.
-- **Strong encryption** — application logic is protected at build time and loaded through a native runtime module.
-- **Optional EXE packaging** — bundle a single-file or folder-based executable with PyInstaller.
-- **Extra hardening support** — pause the build to apply a third-party protector before packaging, when you need a stronger release.
-- **Machine binding** — optional HWID lock and Windows-specific key binding for licensed deployments.
-- **GUI and CLI** — protect from the desktop app or the command line with the same engine.
+- **No source in the release** - end users receive a protected runtime package, not your original `.py` files.
+- **Strong encryption** - application logic is protected at build time and loaded through a native runtime module.
+- **Optional EXE packaging** - bundle a single-file or folder-based executable with PyInstaller.
+- **Extra hardening support** - pause the build to apply a third-party protector before packaging, when you need a stronger release.
+- **Machine binding** - optional HWID lock and Windows-specific key binding for licensed deployments.
+- **GUI and CLI** - protect from the desktop app or the command line with the same engine.
 
 ---
 
@@ -54,13 +54,13 @@ Protected output is written under `output/<project>/`.
 python output\hello\main.py
 ```
 
-**Optional — build an EXE**
+**Optional - build an EXE**
 
 ```bat
 pyaegentris create examples\hello.py --pack
 ```
 
-**Optional — harden before EXE**
+**Optional - harden before EXE**
 
 ```bat
 pyaegentris create examples\hello.py --pack --wait-protect
@@ -108,7 +108,7 @@ Builder keys and local metadata stay on your development machine; they are not p
 
 ## License
 
-Proprietary — see [LICENSE](LICENSE). Redistribution of the tool is not permitted unless your agreement allows it.
+Proprietary - see [LICENSE](LICENSE). Redistribution of the tool is not permitted unless your agreement allows it.
 
 ---
 
