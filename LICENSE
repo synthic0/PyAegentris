@@ -1,0 +1,47 @@
+PyAegentris — Proprietary License
+
+Copyright (c) 2026 synthic0. All rights reserved.
+
+Product: PyAegentris / PyAegentris Protector
+Repository: https://github.com/synthic0/PyAegentris
+Contact: https://github.com/synthic0
+
+---
+
+1. Grant of rights
+
+No rights are granted by this file alone. You may use the Software only if you
+have a separate written permission, purchase receipt, or license agreement from
+the copyright holder.
+
+2. Restrictions
+
+Without prior written permission from synthic0, you must not:
+
+  - copy, reproduce, or mirror the Software or any part of it;
+  - distribute, publish, sublicense, rent, lease, or sell the Software;
+  - modify, adapt, translate, or create derivative works from the Software;
+  - reverse engineer, decompile, disassemble, or otherwise attempt to derive
+    source code, algorithms, keys, or protection logic from the Software;
+  - remove or alter copyright, license, or proprietary notices;
+  - use the Software to build a competing product or service.
+
+3. Protected output
+
+Applications you protect with PyAegentris remain yours. This license governs
+the PyAegentris tool itself, not your own application source code, unless
+otherwise agreed in writing.
+
+4. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+SYNTHIC0 BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. Enforcement
+
+Unauthorized use may result in termination of access and pursuit of remedies
+available under applicable law.
