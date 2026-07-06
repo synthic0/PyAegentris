@@ -13,7 +13,7 @@ PyAegentris is a build-time tool for protecting Python applications on Windows. 
 - **No source in the release** - end users receive a protected runtime package, not your original `.py` files.
 - **Strong encryption** - application logic is protected at build time and loaded through a native runtime module.
 - **Optional EXE packaging** - bundle a single-file or folder-based executable with PyInstaller.
-- **Extra hardening support** - pause the build to apply a third-party protector before packaging, when you need a stronger release.
+- **Extra protector support (VMProtect/Themida)** - pause the build to apply a third-party protector before packaging, when you need a stronger release.
 - **Machine binding** - optional HWID lock and Windows-specific key binding for licensed deployments.
 - **GUI and CLI** - protect from the desktop app or the command line with the same engine.
 
