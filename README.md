@@ -4,7 +4,7 @@ PyAegentris is a build-time tool for protecting Python applications on Windows. 
 
 **Version:** 1.3.0 · **License:** Proprietary (not open source)
 
-![PyAegentris Protector GUI]()
+![PyAegentris Protector GUI](https://raw.githubusercontent.com/synthicnull/PyAegentris/refs/heads/main/screenshots/pyaegentris_gui.png)
 
 ---
 
