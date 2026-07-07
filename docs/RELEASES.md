@@ -2,7 +2,7 @@
 
 ---
 
-## v1.4 - 2026-06-05
+## v1.3.5 - 2026-06-05
 
 ### Added
 * Graphical User Interface (GUI) added.
