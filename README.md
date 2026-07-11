@@ -1,8 +1,6 @@
 # PyAegentris
 
 PyAegentris is a build-time tool for protecting Python applications on Windows. It turns your source into an encrypted runtime package and can optionally produce a standalone EXE for distribution.
-- **License:** Proprietary (not open source)
-
 ![PyAegentris Protector GUI](https://raw.githubusercontent.com/synthicnull/PyAegentris/refs/heads/main/screenshots/pyaegentris_gui.png)
 
 ---
