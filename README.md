@@ -2,7 +2,7 @@
 
 PyAegentris is a build-time tool for protecting Python applications on Windows. It turns your source into an encrypted runtime package and can optionally produce a standalone EXE for distribution.
 
-![PyAegentris Protector GUI](https://raw.githubusercontent.com/synthicnull/PyAegentris/refs/heads/main/screenshots/pyaegentris_gui.png)
+![PyAegentris Protector GUI](https://raw.githubusercontent.com/synthenull/PyAegentris/refs/heads/main/screenshots/pyaegentris_gui.png)
 
 ---
 
@@ -31,7 +31,7 @@ Use the same Python feature release for building and running protected output wh
 1. **Get the project**
 
 ```bat
-git clone https://github.com/synthic0/PyAegentris.git
+git clone https://github.com/synthenull/PyAegentris.git
 cd PyAegentris
 py -3.12 -m venv .venv
 .venv\Scripts\activate
@@ -112,8 +112,8 @@ Proprietary - see [LICENSE](LICENSE). Redistribution of the tool is not permitte
 
 ## Links
 
-- **Repository:** [github.com/synthicnull/PyAegentris](https://github.com/synthicnull/PyAegentris)
-- **Changelog:** [docs/RELEASES.md](https://github.com/synthicnull/PyAegentris/blob/main/docs/RELEASES.md)
+- **Repository:** [github.com/synthenull/PyAegentris](https://github.com/synthenull/PyAegentris)
+- **Changelog:** [docs/RELEASES.md](https://github.com/synthenull/PyAegentris/blob/main/docs/RELEASES.md)
 
 ---
 
