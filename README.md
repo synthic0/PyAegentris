@@ -108,7 +108,6 @@ pyaegentris create <source.py> [options]
 | `--no-icon` / `-i` | Default icon, or custom `.ico` |
 | `--bind-hwid` | Lock execution to the build machine fingerprint |
 | `--dpapi-bind` | Bind protection to this Windows installation |
-| `--force` | Force rebuild of the native runtime |
 
 You can also run `pyaegentris your_app.py` as shorthand for `create`.
 
